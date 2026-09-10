@@ -6,7 +6,7 @@ Hermes Agent skill that turns [@kloss_xyz](https://x.com/kloss_xyz)'s 30-tell "y
 
 Original post: [x.com/kloss_xyz/status/2097808934442844307](https://x.com/kloss_xyz/status/2097808934442844307)
 
-This repo packages that list. Credit kloss for the tells. Scott ([shagghiesuperstar](https://github.com/shagghiesuperstar)) only wrapped them as a skill.
+This repo packages that list. Credit kloss for the tells. [shagghiesuperstar](https://github.com/shagghiesuperstar) only wrapped them as a skill.
 
 ## Install (Hermes)
 

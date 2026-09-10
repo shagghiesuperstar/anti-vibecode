@@ -2,7 +2,7 @@
 name: anti-vibecode
 description: "Stop vibecoded sites: score the 30 landing-page tells and refuse to ship more than five."
 version: "1.0.0"
-author: Scott (shagghiesuperstar), Hermes Agent
+author: shagghiesuperstar, Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 compatibility: "Hermes Agent. No extra tools or API keys. Works on any HTML/CSS/JS or component tree."
@@ -44,7 +44,7 @@ Don't use for: internal admin chrome the user asked to match an existing Tailwin
 ## Attribution (do not drop)
 
 - Original 30-tell list: [@kloss_xyz](https://x.com/kloss_xyz/status/2097808934442844307)
-- Packaging as a Hermes skill: Scott ([shagghiesuperstar](https://github.com/shagghiesuperstar/anti-vibecode))
+- Packaging as a Hermes skill: [shagghiesuperstar](https://github.com/shagghiesuperstar/anti-vibecode)
 
 If you cite this skill, cite kloss first.
 
